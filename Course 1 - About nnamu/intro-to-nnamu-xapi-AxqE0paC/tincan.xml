@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">Intro to nnamu</name>
+      <description lang="en-US">Hi newjoiner! We are so happy to have you on board and want to kick off your nnamu journey with an&amp;nbsp;intro course detailing who we are. We hope you enjoy learning a bit more about our history, mission, and future ambitions.You can find even&amp;nbsp;more details relating to the following lessons on the following confluence page: &lt;a rel=&#34;noopener noreferrer&#34; target=&#34;_blank&#34; href=&#34;https://nnamu.atlassian.net/wiki/x/AoCUCQ&#34;&gt;https://nnamu.atlassian.net/wiki/x/AoCUCQ&lt;/a&gt;.</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/Y_st4Ja7zGSyDtGu7JHLAv0fQVgUnXLS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">About nnamu/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/PVH1eCXErYQYAHu0060a68fCXkh_rxIL" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">nnamu&#39;s History/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/-gDvPnPyjMKH3KOhLTp_r-JY2hl9mtrm" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">What sets nnamu apart?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/YnGKLhnTzWPCPFaq9XHMLIZ77aRKVMBS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Who are nnamu&#39;s customers?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/XDduPw6-VnyZoRcku3N6nPMHVJwMhvjE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">What is nnamu&#39;s market standing?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/WwgTwu8Bfl1XNdwkjzACO8clXWPYWkUD" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Elevator Pitch/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/xy1Ri8-lgKvlOhoOkGHHyxb3bp6BhVay" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">How is nnamu financed?/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/L1YXW30r1GgMN0Gc7OxguEpK1hi_a7IE" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Test your knowledge!/quiz</name>
+      <description lang="en-US">Thank you for taking the time to explore this course. Now it&#39;s time to put that knowledge to the test! Get ready for an intro to nnamu quiz!</description>
+    </activity>
+                                  
+<activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/L1YXW30r1GgMN0Gc7OxguEpK1hi_a7IE/cm0w6w06o00033b797xun87vp" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following is not one of nnamu&#39;s 10 core values</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0w6zlki000d3b79936d8nwi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0w6w06o00043b79ejicvzbb</id>
+    <description lang="en-US">AI First</description>
+  </component>
+    <component>
+    <id>choice_cm0w6w06o00053b798zvz07un</id>
+    <description lang="en-US">Own It</description>
+  </component>
+    <component>
+    <id>choice_cm0w6y9wp000b3b79y76n0unu</id>
+    <description lang="en-US">Value Creation</description>
+  </component>
+    <component>
+    <id>choice_cm0w6zlki000d3b79936d8nwi</id>
+    <description lang="en-US">Competition</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/L1YXW30r1GgMN0Gc7OxguEpK1hi_a7IE/cm0w6w06o00063b79pz18i6nv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">Which of the following are currently customers of nnamu?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm0w6w06o00073b79667fg3se</correctResponsePattern>
+    <correctResponsePattern>choice_cm0w6w06o00083b793dqkdsp7</correctResponsePattern>
+    <correctResponsePattern>choice_cm0w6w06o000a3b799p067zsi</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm0w6w06o00073b79667fg3se</id>
+    <description lang="en-US">British Telecom Sourced</description>
+  </component>
+    <component>
+    <id>choice_cm0w6w06o00093b79amz1u77b</id>
+    <description lang="en-US">BMW</description>
+  </component>
+    <component>
+    <id>choice_cm0w6w06o000a3b799p067zsi</id>
+    <description lang="en-US">Jaguar Land Rover</description>
+  </component>
+    <component>
+    <id>choice_cm0w6w06o00083b793dqkdsp7</id>
+    <description lang="en-US">DeutscheBahn</description>
+  </component>
+    </choices>
+  </activity>
+                              
+<activity id="http://iyuPg6o440sKCzGJ0TE3CaC-ZvB31tEd_rise/L1YXW30r1GgMN0Gc7OxguEpK1hi_a7IE/cm16brykq006d3b73o0jdz0ey" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+  <name lang="en-US">When was nnamu officially founded?</name>
+  <description lang="en-US"></description>
+  <interactionType>choice</interactionType>
+  <correctResponsePatterns>
+    <correctResponsePattern>choice_cm16brykq006e3b73qvewxjyr</correctResponsePattern>
+    </correctResponsePatterns>
+    <choices>
+    <component>
+    <id>choice_cm16brykq006e3b73qvewxjyr</id>
+    <description lang="en-US">February 2022</description>
+  </component>
+    <component>
+    <id>choice_cm16brykq006f3b73gnhh8a1v</id>
+    <description lang="en-US">July 2019</description>
+  </component>
+    </choices>
+  </activity>
+                    </activities>
+</tincan>
