@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://jljiAAwcy0OOZMTIhlcAq8o2OxCi9X7w_rise" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">How we do things in nnamu!</name>
+      <description lang="en-US">&lt;span&gt;&lt;span style=&#34;color: rgb(0, 0, 0); text-decoration: inherit&#34;&gt;This course is designed to introduce new employees to the way we operate at nnamu, facilitating their smooth integration into the company.&lt;/span&gt;&lt;/span&gt;</description>
+      <launch lang="en-US">index.html</launch>
+    </activity>
+      <activity id="http://jljiAAwcy0OOZMTIhlcAq8o2OxCi9X7w_rise/--2Wj88Kj9uDHJVvHRFtH6pTplqCKHDc" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">An Introduction to our SOPs/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://jljiAAwcy0OOZMTIhlcAq8o2OxCi9X7w_rise/vgAJOq8yKwLQkOb7eqI9sZP5O6XpD5BS" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Everything is a Product/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://jljiAAwcy0OOZMTIhlcAq8o2OxCi9X7w_rise/meEpuWdxc_UW0fbQcOhZiCwCdJ-XLkOH" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Taking Ownership/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://jljiAAwcy0OOZMTIhlcAq8o2OxCi9X7w_rise/hBH0U61zpAOvifLMUq_r7K6zSCwExy6b" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Agile/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://jljiAAwcy0OOZMTIhlcAq8o2OxCi9X7w_rise/7_oqH54ROSCpB9YO1bP37LtBxeIRsfMW" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">Continuous Growth &amp; Iteration/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+          <activity id="http://jljiAAwcy0OOZMTIhlcAq8o2OxCi9X7w_rise/B8yk5RGScSfKR5ETZeq7cN-EwGjt8q5X" type="http://adlnet.gov/expapi/activities/module">
+      <name lang="en-US">AI First/blocks</name>
+      <description lang="en-US"></description>
+    </activity>
+        </activities>
+</tincan>
